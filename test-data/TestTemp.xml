@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data>
+  <common>
+    <hello1>&lt;123&gt;&lt;/123&gt;</hello1>
+  </common>
+  <httpTest>
+    <result>中国1</result>
+  </httpTest>
+  <httpTest>
+    <result>123</result>
+  </httpTest>
+</data>

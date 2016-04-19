@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+  <url>${url}/getIpInfo.php?ip=210.75.225.254</url>
+  <get/>
+  <response return="res"/>
+  <jsonValue return="country">${res},/data/country</jsonValue>
+  <log>${country}</log>
+  <assertion>${country},${hello1},verify the country</assertion>
+</root>

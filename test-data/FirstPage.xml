@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data>
+  <common>
+    <para>{"channel_id":5001,"kw":""}</para>
+    <firstpage>{ "channel_id": 5001, "extraPackageNames": [], "packageNames": [ "com.android.browser", "com.android.camera2", "com.android.gallery3d", "com.bestv.ott", "com.fanshi.tvbrowser", "com.fanshi.tvpicnews", "com.fanshi.tvshopping", "com.moretv.android", "com.moretv.mv", "com.ott.YuHeRadio", "com.xiaobaifile.tv", "net.myvst.v2", "tv.huan.photo", "com.android.dummyactivity", "com.jrm.localmm", "mstar.factorymenu.ui", "com.mstar.tv.tvplayer.ui", "tv.fun.appstore", "tv.fun.filemanager", "tv.fun.master", "com.bestv.voiceAssist", "com.funshion.poweroffdialog", "com.hitutu.weathertv", "com.slanissue.tv.erge", "cn.cheerz.ibst", "com.youloft.calendar.tv", "com.szyp.goldfishsTV", "air.com.gongfubb.wksz.tv", "cn.com.wanyueliang.tomato.tv", "cn.kuwo.sing.tv", "com.applidium.nickelodeon", "com.ctbri.youxt.tvbox", "com.dalongtech.cloudpc", "com.demkids.demeng_babysee_tv", "com.happychildhood", "com.hitutu.hispeed", "com.johnny.tv.beautylive", "com.kaikeba.mitv", "com.ktcp.music", "com.meishi_tv", "com.seeyou.tv", "com.shzhoumo.travel.tv", "com.suning.tv.ebuy", "com.tvjianshen.tvfit", "com.zylp.beauty", "com.zylp.kidFun", "me.chunyu.tvdoctor", "tv.talkweb.dadwheregoing" ] }</firstpage>
+  </common>
+</data>

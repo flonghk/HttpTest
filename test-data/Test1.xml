@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data>
+  <common>
+    <w>{"a":"b","c":"d"}</w>
+    <e>r</e>
+    <h>&lt;123&gt;&lt;/123&gt;</h>
+    <r>{"a":"b","c":"d"}</r>
+  </common>
+  <httpTest>
+    <w>e</w>
+  </httpTest>
+</data>

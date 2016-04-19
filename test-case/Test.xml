@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+  <url>http://www.baidu.com</url>
+  <get/>
+  <DocumentAction/>
+  <getElementAttribute return="text">#su,value</getElementAttribute>
+  <log>${text}</log>
+  <assertion>${text},百度一下</assertion>
+</root>

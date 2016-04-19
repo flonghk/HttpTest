@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+  <common>公共方法</common>
+  <log>输出日志</log>
+  <contains>断言包含</contains>
+  <verify>验证</verify>
+  <assertion>断言</assertion>
+  <checkJson>校验JSON</checkJson>
+  <isExistPath>是否存在JSON路径</isExistPath>
+  <jsonValue>获取JSON路径值</jsonValue>
+  <DocumentAction>HTML操作</DocumentAction>
+  <setResponse>设置返回HTML</setResponse>
+  <isExist>是否存在DOM</isExist>
+  <getElementText>获取DOM文本</getElementText>
+  <getElementName>获取DOM名称</getElementName>
+  <getElementAttribute>获取DOM属性</getElementAttribute>
+  <JsoupAction>接口操作</JsoupAction>
+  <get>GET请求</get>
+  <header>增加HTTP头</header>
+  <url>请求链接</url>
+  <response>RESPONSE响应</response>
+  <post>POST表单请求</post>
+  <parameter>增加参数</parameter>
+  <postBody>POST-RAW请求</postBody>
+</root>

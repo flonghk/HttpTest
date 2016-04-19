@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data>
+  <common>
+    <url>www.baidu.com</url>
+  </common>
+  <testDemo>
+    <result>中国1</result>
+  </testDemo>
+  <httpTest>
+    <test>456</test>
+  </httpTest>
+  <httpTest>
+    <hello>123</hello>
+  </httpTest>
+</data>

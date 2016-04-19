@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data>
+  <common>
+    <log/>
+    <contains/>
+    <verify/>
+    <assertion/>
+    <checkJson/>
+    <isExistPath/>
+    <jsonValue/>
+  </common>
+  <DocumentAction>
+    <setResponse/>
+    <isExist/>
+    <getElementText/>
+    <getElementName/>
+    <getElementAttribute/>
+  </DocumentAction>
+  <JsoupAction>
+    <get/>
+    <header/>
+    <url/>
+    <response/>
+    <post/>
+    <parameter/>
+    <postBody/>
+  </JsoupAction>
+</data>

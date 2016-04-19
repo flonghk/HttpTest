@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+  <postBody return="res">http://app.funtv.bestv.com.cn/tomato/search/v1,${para}</postBody>
+  <jsonValue return="code">${res},/retCode</jsonValue>
+  <assertion>200,${code}</assertion>
+  <postBody return="firstres">http://app.funtv.bestv.com.cn/tomato/main/v2,${firstpage}</postBody>
+  <jsonValue return="firstcode">${firstres},/retCode</jsonValue>
+  <assertion>${firstcode},200</assertion>
+</root>
